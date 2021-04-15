@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/curry</item>
+        <item name="colorPrimaryDark">@color/curry</item>
+        <item name="colorAccent">@color/curry</item>
+    </style>
+
+</resources>
