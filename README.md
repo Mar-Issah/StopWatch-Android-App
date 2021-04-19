@@ -2,9 +2,8 @@
 A simple android app to practice my skills in android development
 
 ## About The Project
-This app allows you to set a timer which increases a timer up every one second
-![StopWatch Android App](https://res.cloudinary.com/dytnpjxrd/image/upload/v1618446686/My%20Website%20Projects/stopwatch_peidsh.jpg)
-
+This app allows you to set a timer which increases a timer up every one second.<br>
+<img  alt="myApp" width="300px" height="650px" src="https://res.cloudinary.com/dytnpjxrd/image/upload/v1618446686/My%20Website%20Projects/stopwatch_peidsh.jpg" />
 
 <br>
 
